@@ -1,0 +1,10 @@
+package com.facebook.appevents.iap;
+
+/* compiled from: D8$$SyntheticClass */
+/* loaded from: classes2.dex */
+public final /* synthetic */ class InAppPurchase$$ExternalSyntheticBackport0 {
+    public static /* synthetic */ int m(double d) {
+        long doubleToLongBits = Double.doubleToLongBits(d);
+        return (int) (doubleToLongBits ^ (doubleToLongBits >>> 32));
+    }
+}

@@ -1,0 +1,7 @@
+package com.google.android.gms.internal.mlkit_vision_common;
+
+/* compiled from: com.google.mlkit:vision-common@@17.2.0 */
+/* loaded from: classes3.dex */
+public interface zzkw {
+    void zza(zzkp zzkpVar);
+}
